@@ -2,12 +2,13 @@
 A Self-Supervised Learning Framework for Remote Sensing.
 
 [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-12423-5_29)
-Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets
+
+**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**
 
 # Command Lines
 The code is based on [DINO](https://github.com/facebookresearch/dino).
 
-Note that the parameters hidden_size and sample_ind need to be adjusted with the network.
+Note that the parameters **hidden_size** and **sample_ind** need to be adjusted with the network.
 Here are a few examples.
 
 1. To pretrain a resnet18 model,
